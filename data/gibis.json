@@ -1,0 +1,171 @@
+[
+    {
+        "title": "Surfista Prateado: Parábola",
+        "description": "O único oponente de Galactus é o herói que ele aprisionou na Terra: o Surfista Prateado! O Devorador de Mundos jurou não consumir o planeta, mas… e se, em vez disso, ele transformar a humanidade em bilhões de adoradores seus?",
+        "superhero": true,
+        "genre": "aventura",
+        "length": "curta"
+    },
+    {
+        "title": "Supergirl: Mulher do Amanhã",
+        "description": "Ao se deparar com uma garota alienígena que busca vingança pelo assassinato de seu pai, a Supergirl se verá obrigada a repensar as suas convicções para ajudar a menina. É então que uma kryptoniana e uma criança furiosa embarcam numa jornada perigosa no melhor estilo espada e feitiçaria espacial que irá mudar a vida de ambas para sempre!",
+        "superhero": true,
+        "genre": "aventura",
+        "length": "média"
+    },
+    {
+        "title": "Demolidor (2020) Vol. 1 ao Vol. 11",
+        "description": "Depois de uma experiência com a morte, Matt Murdock precisa juntar os cacos de sua vida - o que inclui voltar à ação como o Demolidor! Mas uma vida de traumas cobra seu preço, e se tornar o mesmo guardião da Cozinha do Inferno que ele um dia foi não será fácil.",
+        "superhero": true,
+        "genre": "aventura",
+        "length": "longa"
+    },
+    {
+        "title": "Superman e Lois Lane: Aniversário de 25 Anos de Casamento",
+        "description": "O casamento de Clark Kent e Lois Lane é um acontecimento especial e histórico, que mudou a mitologia do Superman para sempre! Uma cerimônia inigualável, cheia de ação e romance, com participações de personagens de todo o Universo DC.",
+        "superhero": true,
+        "genre": "romance",
+        "length": "média"
+    },
+    {
+        "title": "Orgulho DC (2024)",
+        "description": "Em 2024, a DC Comics celebra mais uma vez o orgulho LGBTQIA+, que é ser como se é! A antologia deste ano traz nove histórias inéditas estrelando vários personagens queridos e ícones desse universo, como Arlequina, Hera Venenosa, Jon Kent, Tim Drake, Constantine… e muitos mais!",
+        "superhero": true,
+        "genre": "romance",
+        "length": "curta"
+    },
+    {
+        "title": "Hera Venenosa Vol. 1 ao Vol. 4",
+        "description": "Com uma nova missão, uma visão renovada da vida, novos poderes e um redescoberto sentido de propósito, uma nova era se inicia. E, claro, a Arlequina chegou à Costa Oeste para passar um tempinho de qualidade com sua garota favorita! Que tipo de caos loucamente lascivo e ridiculamente absurdo o casal Harleen Quinzel e Pamela Isley irá aprontar?",
+        "superhero": true,
+        "genre": "romance",
+        "length": "longa"
+    },
+    {
+        "title": "Visão Vol. 1 e Vol. 2",
+        "description": "O Visão quer ser humano. E o que é mais humano do que formar uma família? Para tal, ele retorna ao laboratório onde Ultron o criou e o moldou para ser uma arma. O lugar onde ele se rebelou pela primeira vez contra seu destino, imaginando que poderia ser mais do que aquilo - que poderia ser um homem.",
+        "superhero": true,
+        "genre": "ficção científica",
+        "length": "média"
+    },
+    {
+        "title": "Multiverso",
+        "description": "Existem mundos que vocês nunca imaginou… Mundos além daqueles que você conhece. Mundos onde heróis lutam pela verdade e pela justiça. Mundos onde a escuridão reina, e apenas alguns poucos escolhidos mantêm a luz viva. Mundos de magia e ciência, comédia e tragédia, monstros e maravilhas. Cinquenta e dois mundos. Possibilidades infinitas. E uma ameaça grande o suficiente para destruir todas elas. Esse é o MULTIVERSO.",
+        "superhero": true,
+        "genre": "ficção científica",
+        "length": "longa"
+    },
+    {
+        "title": "Descender",
+        "description": "Essa história épica narra a luta de um robô para sobreviver em um mundo que deseja aniquilá-lo.",
+        "superhero": false,
+        "genre": "ficção científica",
+        "length": "curta"
+    },
+    {
+        "title": "Superman e a Legião dos Super-Heróis",
+        "description": "Respondendo a um urgente pedido de socorro, Superman viaja ao século 31 para salvar seus maiores amigos: a Legião dos Super-Heróis. Mas, nesse futuro, o legado do Homem de Aço foi distorcido e usado para iniciar um período de terror em todo o cosmo, um período em que a Legião é considerada uma organização criminosa, uma guerra entre os Planetas Unidos e a Terra é iminente e as ações de ´manutenção da paz´ da xenofóbica Liga da Justiça da Terra pioram as coisas cada vez mais.",
+        "superhero": true,
+        "genre": "ficção científica",
+        "length": "curta"
+    },
+    {
+        "title": "Liga da Justiça Dark Vol. 1 ao Vol. 4",
+        "description": "A magia do mundo está mudando. Tudo que é místico e arcano se encontra apreensivo e cabe à Princesa Amazona reunir uma equipe capaz de entender e conter essa celeuma mística. Mulher-Maravilha, Zatanna, Monstro do Pântano, Detetive Chimp e Morcego Humano devem fazer de tudo para impedir o mal que se avizinha. ",
+        "superhero": true,
+        "genre": "terror",
+        "length": "média"
+    },
+    {
+        "title": "DComposição Vol. 1 ao Vol. 5",
+        "description": "…E mais uma vez a Liga da Justiça repele uma tentativa de invasão de Darkseid. Mas desta vez, algo de diferente ocorre, uma praga para a qual nem os maiores heróis dos Universo DC poderiam estar preparados. Não existe diferença entre herói e vilão quando todos são zumbis sedentos por sangue!",
+        "superhero": true,
+        "genre": "terror",
+        "length": "longa"
+    },
+    {
+        "title": "Morbius: Velhas Feridas",
+        "description": "Morbius sempre foi conhecido pelos fãs de HQs como o Vampiro Vivo... mas será que ele ainda pode ser chamado assim?! Por anos, o biólogo vencedor do Nobel Michael Morbius lutou com todas as duas forças para encontrar uma cura para sua condição. Agora, pela primeira vez em muito, muito tempo, seu objetivo pode estar mais próximo. Porém, o caminho que leva à salvação está repleto de perigos e contradições!",
+        "superhero": true,
+        "genre": "terror",
+        "length": "curta"
+    },
+    {
+        "title": "Paper Girls Vol. 1 ao Vol. 4",
+        "description": "Drama suburbano e mistérios sobrenaturais colidem nesta série sobre nostalgia, primeiros empregos e os últimos dias da infância. Na madrugada depois do Dia das Bruxas de 1988, quatro adolescentes entregadoras de jornal descobrem a história mais importante de todos os tempos. Erin, Mac, Tiffany e KJ se deparam com viajantes do tempo, criaturas aladas bizarras e... o misterioso Grande Pai.",
+        "superhero": false,
+        "genre": "ficção científica",
+        "length": "longa"
+    },
+    {
+        "title": "Oblivion Song Vol. 1 e Vol. 2",
+        "description": "Anos atrás, 300 mil habitantes da Filadélfia foram transportados para Oblivion, uma nova dimensão aterrorizante que surgiu de forma inexplicável e destruiu áreas da cidade. Os desaparecidos tentam sobreviver enfrentando seres monstruosos em um ambiente inóspito e atordoante, marcado por raros momentos de calmaria.",
+        "superhero": false,
+        "genre": "ficção científica",
+        "length": "média"
+    },
+    {
+        "title": "Lavagem",
+        "description": "No trabalho de Shiko, o termo “lavagem” vai além de ser uma mera comida dos porcos ou o cardápio da janta que se prepara naquela noite no casebre. A Lavagem da alma pode ser tanto num banho de sangue, nas águas da maré alta ou no abandono de uma vida atolada no terreno úmido do manguezais.",
+        "superhero": false,
+        "genre": "terror",
+        "length": "curta"
+    },
+    {
+        "title": "The Black Monday Murders Vol. 1 e Vol. 3",
+        "description": "Todos saúdam o deus do dinheiro! As várias escolas ancestrais ligadas à magia controlam secretamente toda a sociedade através das instituições financeiras mais poderosas do mundo. Um mundo secreto onde vampiros oligarcas russos, Papas das trevas, aristocratas americanos encantados e assassinos do Fundo Monetário Internacional trabalham juntos para nos manter no nosso devido lugar. ",
+        "superhero": false,
+        "genre": "terror",
+        "length": "média"
+    },
+    {
+        "title": "Giddeon Falls Vol. 1 ao Vol. 6",
+        "description": "Gideon Falls acompanha a vida de um jovem recluso que é obcecado por catar no lixo “artefatos” de uma conspiração que parece existir apenas na sua cabeça, e também apresenta a vida de um fracassado padre católico que chega numa pequena cidade cheia de segredos obscuros. As histórias de ambos vão se entrelaçar em torno de uma misteriosa lenda, trazendo a morte e a loucura em seu rastro.",
+        "superhero": false,
+        "genre": "terror",
+        "length": "longa"
+    },
+    {
+        "title": "Saga",
+        "description": "Frequentemente descrita pela crítica especializada como um “encontro entre Star Wars e Game of Thrones”, SAGA nos conta a história de Alana e Marko, dois soldados em lados opostos numa longa e devastadora guerra intergaláctica que se apaixonam e lutam para garantir que Hazel, sua filha recém-nascida, continue viva. Mas é claro que isso não será nada fácil...",
+        "superhero": false,
+        "genre": "aventura",
+        "length": "longa"
+    },
+    {
+        "title": "Patrulha do Destino Vol. 1 e Vol. 2",
+        "description": "A Patrulha do Destino parte em uma jornada épica (e doida) pelo sistema solar para encarar a Maratona Eterna e os fanáticos da boa forma que habitam o planeta Orbius e muito mais! Grandes mudanças estão a caminho para nossos heróis enquanto o Homem-Robô se adapta a nova vida como humano e Flex Mentallo procura a Praia da Sina!",
+        "superhero": false,
+        "genre": "aventura",
+        "length": "curta"
+    },
+    {
+        "title": "The Wicked + The Divine Vol. 1 ao Vol. 4",
+        "description": "Ser imortal não significa viver para sempre… A cada 90 anos, aproximadamente, doze deuses reencarnam no corpo de jovens adultos. Eles são carismáticos, perspicazes e atraem grandes multidões. São capazes de levar qualquer um ao êxtase. Há rumores de que podem realizar milagres. Eles salvam vidas, seja metafórica ou concretamente. Eles são amados. Eles são odiados. Eles são incríveis. E em menos de dois anos estarão todos mortos. Isso já aconteceu uma vez. E vai acontecer de novo…",
+        "superhero": false,
+        "genre": "aventura",
+        "length": "média"
+    },
+    {
+        "title": "Heartstopper Vol. 1 ao Vol. 5",
+        "description": "Escrito e ilustrado por Alice Oseman, Heartstopper conta a história dos estudantes Charlie Spring e Nick Nelson, que se apaixonam",
+        "superhero": false,
+        "genre": "romance",
+        "length": "longa"
+    },
+    {
+        "title": "Laura Dean vive terminando comigo",
+        "description": "Freddy Riley só quer que Laura Dean pare de terminar com ela. O dia em que começaram a namorar foi o melhor de sua vida, mas agora parece apenas uma lembrança distante.",
+        "superhero": false,
+        "genre": "romance",
+        "length": "média"
+    },
+    {
+        "title": "Nectarina",
+        "description": "Bron e Ray são um casal queer, ligado por um amor poderoso, que tudo consome. Suas aventuras selvagens com Nessie, sobrinha de Ray, são momentos de felicidade que elas esperam todas as semanas. Movidas pelo poder da imaginação da criança, elas podem ser elas mesmas e esquecer suas vidas cotidianas, presas entre tensões familiares, rejeição e isolamento.",
+        "superhero": false,
+        "genre": "romance",
+        "length": "curta"
+    }
+
+]
